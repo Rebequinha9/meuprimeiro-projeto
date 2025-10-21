@@ -1,18 +1,36 @@
-.topo{
-  padding: 10px;
-  background-color: deeppink;
+/*GERAL*/
+  
+ 
+  .cabeçalho{
+  padding: 90px;
+  background-color: rgb(216, 37, 133);
   color: black;
   text-align: center;
+  border: 20px;
+  margin: 0px;
 }
+
+
+.menu{
+  text-align: center;
+  font-size: larger;
+ margin-top: px;
+}
+
+
 .topo2{
-  padding: 10px;
-  background-color: aqua;
+  padding: 30px;
+  background-color: rgb(236, 113, 175);
   color: rgb(0, 0, 0);
   text-align: center;
+  margin: 0px;
 }
+
+
 .topo3{
-   padding: 10px;
-  background-color: rgb(216, 160, 40);
+   padding: 30px;
+  background-color: rgb(241, 161, 195);
   color: rgb(0, 0, 0);
   text-align: center;
+  margin: 0;
 }
