@@ -3,11 +3,11 @@
  
   .cabeçalho{
   padding: 90px;
-  background-color: rgb(216, 37, 133);
   color: black;
   text-align: center;
   border: 20px;
   margin: 0px;
+  background-color: rgb(224, 146, 115);
 }
 
 
@@ -20,7 +20,7 @@
 
 .topo2{
   padding: 30px;
-  background-color: rgb(236, 113, 175);
+  background-color: rgb(236, 148, 113);
   color: rgb(0, 0, 0);
   text-align: center;
   margin: 0px;
@@ -29,7 +29,7 @@
 
 .topo3{
    padding: 30px;
-  background-color: rgb(241, 161, 195);
+  background-color: rgb(209, 137, 88);
   color: rgb(0, 0, 0);
   text-align: center;
   margin: 0;
