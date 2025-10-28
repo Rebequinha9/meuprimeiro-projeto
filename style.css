@@ -5,32 +5,43 @@
   padding: 90px;
   color: black;
   text-align: center;
-  border: 20px;
+  border: 50px;
   margin: 0px;
   background-color: rgb(224, 146, 115);
+  font-size: 20px;
+  border: 50px;
 }
 
 
 .menu{
-  text-align: center;
+  text-align: justify;
   font-size: larger;
- margin-top: px;
+ margin-top: 50px;
 }
 
 
 .topo2{
   padding: 30px;
-  background-color: rgb(236, 148, 113);
   color: rgb(0, 0, 0);
   text-align: center;
   margin: 0px;
+  font-size: 30px;
 }
 
 
 .topo3{
    padding: 30px;
-  background-color: rgb(209, 137, 88);
-  color: rgb(0, 0, 0);
+  color: rgb(223, 142, 104);
   text-align: center;
   margin: 0;
+  font-size: 40px;
+}
+
+.conteudo{
+  text-align: center;
+  padding: 250px;
+}
+
+.curiosidade{
+  text-align: center;
 }
