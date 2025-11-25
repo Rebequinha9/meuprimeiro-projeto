@@ -1,15 +1,20 @@
 /*GERAL*/
-  
+ body{ 
+  background-color: rgb(211, 208, 208);
+
+ }
  
   .cabeçalho{
-  padding: 90px;
+  padding: 10px;
   color: black;
   text-align: center;
   border: 50px;
   margin: 0px;
-  background-color: rgb(224, 146, 115);
+  background-color: rgb(224, 142, 109);
   font-size: 20px;
   border: 50px;
+  border-radius: 10px;
+
 }
 
 .menu{
@@ -17,7 +22,7 @@
   justify-content: center;
   gap: 25px;
   flex-wrap: wrap;
-  padding: 50px;
+  padding: 5px;
 }
 
 
@@ -32,7 +37,7 @@
   color: rgb(185, 100, 21);
   text-decoration: none;
   border-radius: 50px;
-  padding: 20px 30px ;
+  padding: 10px 20px ;
   background: lavender;
   transition: 0.3s;
 
@@ -51,18 +56,50 @@ background: lightcoral;
  }
 
 .topo3{
-   padding: 70px;
+   padding: 10px;
   color: rgb(230, 148, 110);
   text-align: center;
   margin: 0;
   font-size: 40px;
 }
 
-.conteudo{
+.conteudoprincipal{
   text-align: center;
-  padding: 250px;
+  padding: 10px;  /*  borda interna*/
+  max-width: 1000px;
+  margin: auto;
+  font-size: 20px;
+}
+.conteudo1{
+  text-align: center;
+  max-width: 800px;
+margin: auto;
+font-size: 28px;
 }
 
 .curiosidade{
   text-align: center;
 }
+
+.topo4{
+  padding: 10;
+  text-align: center;
+  max-width: 800px;
+  font-size: 20px;
+  margin: auto;
+}
+ 
+.sobre1{
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+  font-size: medium;
+  padding: 50px;
+}
+
+
+
+
+
+
+
