@@ -1,6 +1,6 @@
 /*GERAL*/
  body{ 
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(236, 235, 235);
 
  }
  
@@ -38,14 +38,17 @@
 .corpo{
   max-width: 800px;
   background-color:  rgb(240, 200, 220);
-text-align: center;
-margin: auto;
-
+ text-align: center;
+ margin: auto;
+ border: 60px;
+  box-shadow: 10px 10px 70px rgba(0,0,0,0.3);
+  padding: 75px;
+  border-radius: 30px;
 }
 
  .menu a{
-  color:  rgb(231, 158, 195);
-  text-decoration: none;
+  color:  rgb(248, 73, 161);
+  text-decoration: rgb(255, 204, 238);
   border-radius: 50px;
   padding: 10px 20px ;
   background: rgb(255, 255, 255);
@@ -54,7 +57,7 @@ margin: auto;
  }
 
  .conteudo{
-  padding: 30px;
+  padding: 10px;
   color: rgb(221, 127, 174);
   text-align: center;
   margin: 0;
@@ -63,15 +66,15 @@ margin: auto;
 }
  
  .menu a:hover{
-background: lightcoral;
+background: rgb(243, 121, 182);
  }
 
 .topo3{
-   padding: 10px;
+   padding: 8px;
   color: rgb(221, 127, 174);
   text-align: center;
   margin: 0;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .conteudoprincipal{
@@ -79,16 +82,16 @@ background: lightcoral;
   padding: 10px;  /*  borda interna*/
   max-width: 1000px;
   margin: auto;
-  font-size: 20px;
+  font-size: 18px;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .conteudo1{
   text-align: center;
   max-width: 800px;
 margin: auto;
-font-size: 28px;
+font-size: 19px;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
+ padding: 10px;
 }
 
 .curiosidade{
@@ -98,27 +101,25 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 .topo4{
   padding: 10;
   text-align: center;
-  max-width: 800px;
-  font-size: 20px;
+  max-width: 1000px;
+  font-size: 18px;
   margin: auto;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
  
 .sobre1{
   text-align: center;
-  max-width: 900px;
+  max-width: 800px;
   margin: auto;
-  font-size: 24px;
-  padding: 50px;
+  font-size: 19px;
+  padding: 15px;
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    color: black;
 
 
 }
 
-.sobre2{
-  
-}
+
 .bloco-bege {
     background-color: rgb(231, 198, 155); /* bege */
     padding: 20px;
@@ -131,7 +132,6 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
     max-width: 100%;
     border-radius: 10px;
 }
-
 
 
 
