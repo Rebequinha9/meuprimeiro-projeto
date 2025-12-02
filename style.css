@@ -30,14 +30,13 @@
   padding: 30px;
   color: rgb(255, 255, 255);//*cor da letra*//
   text-align: center;
-  margin: 0px;
-  font-size: 30px;
-  
-}
+ 
+
+
 
 .corpo{
   max-width: 800px;
-  background-color:  #cd966c;
+  background-color:  #c48b5f;
  text-align: center;
  margin: auto;
  border: 60px;
